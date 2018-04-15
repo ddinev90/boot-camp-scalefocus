@@ -11,6 +11,10 @@ namespace BootCampBank
         static void Main(string[] args)
         {
 
+            List<BankAccount> accounts = AccountGenerator.Generate();
+
+
+            
         }
     }
 }

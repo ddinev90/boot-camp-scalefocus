@@ -9,10 +9,9 @@ namespace BootCampBank
     public interface IAccount
     {
 
-        double Deposit();
-        double Withdraw();
-        double Transfer();
+        void DepositMoney(double sumDeposited);
+        void Withdraw(double sumWithdrawn);
+        void Transfer(BankAccount account, double sumTransferred);
         void ShowInfo();
-
     }
 }

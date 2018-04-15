@@ -1,0 +1,7 @@
+C:\Users\ddine\Desktop\Boot Camp Scalefocus\boot-camp-scalefocus\bin\Debug\BootCampBank.exe.config
+C:\Users\ddine\Desktop\Boot Camp Scalefocus\boot-camp-scalefocus\bin\Debug\BootCampBank.exe
+C:\Users\ddine\Desktop\Boot Camp Scalefocus\boot-camp-scalefocus\bin\Debug\BootCampBank.pdb
+C:\Users\ddine\Desktop\Boot Camp Scalefocus\boot-camp-scalefocus\obj\Debug\BootCampBank.csprojResolveAssemblyReference.cache
+C:\Users\ddine\Desktop\Boot Camp Scalefocus\boot-camp-scalefocus\obj\Debug\BootCampBank.csproj.CoreCompileInputs.cache
+C:\Users\ddine\Desktop\Boot Camp Scalefocus\boot-camp-scalefocus\obj\Debug\BootCampBank.exe
+C:\Users\ddine\Desktop\Boot Camp Scalefocus\boot-camp-scalefocus\obj\Debug\BootCampBank.pdb
